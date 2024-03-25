@@ -6,6 +6,6 @@ Well I will at least attempt to help on every one of those.
 
 Through this we will be going over hardware, your operating system, what programs I recommend, and answer questions people might have.
 
-Even debunk old myths people are believing. Now time to go through the journey of PC Optimizations
+Even debunk old myths people are believing. Now time to go through the journey of PC Optimizations.
 
 For more info or questions, go to the Discord server for Yet Another Windows Toolbox, another project I'm working on. https://discord.gg/VqErADgXYh
