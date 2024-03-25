@@ -51,5 +51,5 @@ Prefer wired over wireless peripherals.
 
 Make sure there is no RGB on the peripherals.
 
-Always connect your peripherals to the slowest USB 3.0 ports
+Always connect your peripherals to the slowest USB ports directly connected to your motherboard
 
