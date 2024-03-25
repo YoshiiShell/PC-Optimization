@@ -36,7 +36,7 @@ Your PSU should be 500-800 watts above what you need. Especially if you're plann
 
 ## GPU
 
-iGPUs are horrible, however for the best experience go for a dedicated GPU.
+iGPUs aren't horrible, however for the best experience go for a dedicated GPU.
 
 Make sure your cables connecting your computer to your monitor go to the motherboard.
 
