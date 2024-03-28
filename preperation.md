@@ -35,3 +35,12 @@ MSI: M-Flash
 Now select the only file (if there is multiple, make sure there is **one** .rom. If not, cancel out and troubleshoot.
 
 Let it update and once it does, it will restart you back to BIOS, or restart normally. Which then you should see Windows on a prebuilt, or a no OS found error on a custom-built.
+
+
+## Drivers
+
+Sometimes you have to grab drivers for Windows to read your disk. 
+
+So grab your drivers from the disk provider's website and place it in an easy to access but safe kept folder. Such as a "Drivers" folder on your desktop. 
+
+Now let's move onto installing Windows!
