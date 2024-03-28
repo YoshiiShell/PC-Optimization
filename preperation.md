@@ -8,6 +8,8 @@ The BIOS (Basic Input Output System) is what boots the computer and the hardware
 
 This BIOS can be updated in a couple ways. However the easiest (excluding updating it after OS installation) is through a flash update on a USB stick.
 
+I'd recommend updating through OS unless you need to do it before. Like if your CPU is unsupported without a BIOS update. In this case:
+
 ### Do this only if you are comfortable to do this!
 
 Open the BIOS by spamming either the F2, F10, F12 or DEL key. If none of those work, check the computer's or motherboard provider's manual.
@@ -25,3 +27,7 @@ Gigabyte: Q-Flash
 MSI: M-Flash
 
 [this is where I got it. Go check them out](https://www.tomshardware.com/how-to/update-bios-on-a-pc)
+
+Now choose the only file 
+
+On a different computer 
