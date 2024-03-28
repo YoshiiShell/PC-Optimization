@@ -8,7 +8,7 @@ The BIOS (Basic Input Output System) is what boots the computer and the hardware
 
 This BIOS can be updated in a couple ways. However the easiest (excluding updating it after OS installation) is through a flash update on a USB stick.
 
-I'd recommend updating through OS unless you need to do it before. Like if your CPU is unsupported without a BIOS update. In this case:
+I'd recommend updating through OS unless you absolutely have to do it before. Like if your CPU is unsupported without a BIOS update. In this case:
 
 ### Do this only if you are comfortable to do this!
 
