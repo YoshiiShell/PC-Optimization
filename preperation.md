@@ -20,4 +20,4 @@ ASRock: Instant Flash
 Asus: EZ Flash or EZ Flash 3
 Gigabyte: Q-Flash
 MSI: M-Flash
-[https://www.tomshardware.com/how-to/update-bios-on-a-pc] (this is where I got it. Go check them out)
+[https://www.tomshardware.com/how-to/update-bios-on-a-pc](this is where I got it. Go check them out)
