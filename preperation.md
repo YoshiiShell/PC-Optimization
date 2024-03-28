@@ -17,7 +17,11 @@ The BIOS update flash can be in various different spots within the BIOS menu. Ho
 It has various different names. 
 
 ASRock: Instant Flash
+
 Asus: EZ Flash or EZ Flash 3
+
 Gigabyte: Q-Flash
+
 MSI: M-Flash
+
 [this is where I got it. Go check them out](https://www.tomshardware.com/how-to/update-bios-on-a-pc)
