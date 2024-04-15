@@ -45,6 +45,8 @@ So grab your drivers from the disk provider's website and place it in an easy to
 
 Now let's move onto installing Windows!
 
+## Installing Windows
+
 Hop on over to [UUPDump](https://uupdump.net/fetchupd.php?arch=amd64&ring=retail) or its [ARM64 version](https://uupdump.net/fetchupd.php?arch=arm64&ring=retail)
 
 For AMD64 (x86_64) click the bottom one and for ARM click the only one
