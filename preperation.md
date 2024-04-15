@@ -44,3 +44,19 @@ Sometimes you have to grab drivers for Windows to read your disk.
 So grab your drivers from the disk provider's website and place it in an easy to access but safe kept folder. Such as a "Drivers" folder on your desktop. 
 
 Now let's move onto installing Windows!
+
+Hop on over to [UUPDump](https://uupdump.net/fetchupd.php?arch=amd64&ring=retail) or its [ARM64 version](https://uupdump.net/fetchupd.php?arch=arm64&ring=retail)
+
+For AMD64 (x86_64) click the bottom one and for ARM click the only one
+
+Select your language then click "Next"
+
+Then choose whatever versions you will need. Only select one version unless you have a reason for multiple
+
+Keep everything as is and click "Create download package". This will download a .zip
+
+Unzip that and go into the folder
+
+Run the .cmd as administrator and wait. Soon you'll see an ISO. Now put that on Rufus or Ventory or even InstallWindowsWithoutUSB
+
+Now lets install this in install.md
