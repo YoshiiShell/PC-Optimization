@@ -32,7 +32,7 @@ Make sure your fans or water cooling sets don't have any RGB.
 
 Make sure your PSU doesn't have any RGB.
 
-Your PSU should be 500-800 watts above what you need. Especially if you're planning to overclock.
+Your PSU should be 200-300 watts above what you need. Especially if you're planning to overclock.
 
 ## GPU
 
