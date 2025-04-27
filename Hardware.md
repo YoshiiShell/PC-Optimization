@@ -18,7 +18,7 @@ Avoid memory sticks with RGB as that takes up needed power.
 
 ## Disk
 
-For the main Windows installation, go for an SSD. If you have the budget, go for a nice M.2 SSD.
+For the main Windows installation, go for an SSD. If you have the budget, go for a nice M.2 SSD. [Some benchmarks if you are curious](https://davemateer.com/2020/04/19/Disk-performance-CrystalDiskMark-HDD-vs-SSD)
 
 If you need extra disks for general storage, go for high-RPM HDDs. Especially if you need to keep the storage for a long time.
 
