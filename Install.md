@@ -28,7 +28,10 @@ Now both types of users should be at Windeploy. Now wait for OOBE.
 
 ## Pre-account setup
 
-Now you should be in OOBE (Out-Of-Box-Experience) what should we choose?
+Now you should be in OOBE (Out-Of-Box-Experience).
+If you get an OOBEREGION error, just skip it.
+
+## Accounts
 
 ### Windows 10
 If on 10, just click the button "Domain Join" on the account creation screen, and we will meet you at the privacy setup screen.
@@ -37,7 +40,8 @@ If on 10, just click the button "Domain Join" on the account creation screen, an
 
 DIsconnect your Ethernet first.
 
-Choose whatever language and region you are in. Once on the network screen, press Shift and F10 and type in ```oobe/BypassNRO``` and it will restart.
+Choose whatever language and region you are in. Once on the network screen, press Shift and F10 and type in ```start ms-cxh:localonly``` and it will restart.
+[Here's why and how it works](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#start-ms-cxhlocalonly-how-does-it-work)
 
 On network setup choose "I dont have internet" and it'll take you to local account creation.
 
