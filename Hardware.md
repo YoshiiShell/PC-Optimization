@@ -14,7 +14,7 @@ Try to use either two or four sticks of RAM.
 
 [This brings it into dual-channel mode. Which is better performance wise.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#dual-channel-memory)
 
-Avoid memory sticks with RGB as that takes up needed power.
+[Avoid memory sticks with RGB as that takes up needed power.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#my-attack-on-rgb)
 
 ## Disk
 
@@ -26,11 +26,11 @@ If you need extra disks for general storage, go for high-RPM HDDs. Especially if
 
 Place your fans so that outside air goes in and inside air goes out.
 
-Make sure your fans or water cooling sets don't have any RGB.
+[Make sure your fans or water cooling sets don't have any RGB.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#my-attack-on-rgb)
 
 ## Power
 
-Make sure your PSU doesn't have any RGB.
+[Make sure your PSU doesn't have any RGB.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#my-attack-on-rgb)
 
 Your PSU should be 200-300 watts above what you need. Especially if you're planning to overclock.
 
@@ -43,13 +43,13 @@ Make sure your cables connecting your computer to your monitor go to the motherb
 Make sure nothing else bottlenecks the GPU. 
 If you have a high tier GPU and mid tier everything else, the GPU will run mid tier
 
-Make sure there is no RGB on the GPU.
+[Make sure there is no RGB on the GPU.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#my-attack-on-rgb)
 
 ## Peripherals
 
 Prefer wired over wireless peripherals.
 
-Make sure there is no RGB on the peripherals.
+[Make sure there is no RGB on the peripherals.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#my-attack-on-rgb)
 
 Always connect your peripherals to the slowest USB ports directly connected to your motherboard
 
