@@ -12,8 +12,7 @@ However if you're planning to use your computer for specialized things such as w
 
 Try to use either two or four sticks of RAM.
 
-[This brings it into dual-channel mode. Which is better performance wise.](Dual channel memory
-RAM brings it's contents to the CPU to be processed. In one or three sticks of memory, there is only one line, a bus. When two or four are in however, dual-channel memory is on, which adds another bus, doubling the space from 64 bit space to 128 bit space. The performance gains are noticable and is highly recommended.)
+[This brings it into dual-channel mode. Which is better performance wise.](https://github.com/YoshiiShell/PC-Optimization/blob/main/Advanced%20discussions.md#dual-channel-memory)
 
 Avoid memory sticks with RGB as that takes up needed power.
 
